@@ -1,3 +1,3 @@
-# jovian-careers-website
-A careers website for Jovian
+# joli-thappal-website
+A careers website for aulla
 # joli-undo
